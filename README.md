@@ -1,5 +1,5 @@
 # Simple Youtube downloader telegram bot
-This is just a simple Youtube downloader bot with node.js (ES6). I hope it will become more widespread soon.
+This is just a simple youtube downloader bot with node.js (ES6). I hope it improves soon.
 ## How to install
 For install this bot on your server, you need to install libraries in package.json so run this command:
 
