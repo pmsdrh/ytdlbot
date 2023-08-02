@@ -1,0 +1,18 @@
+{
+  "name": "ytdlbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "glob": "^10.3.3",
+    "telegraf": "^3.38.0",
+    "telegraf-i18n": "^6.6.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
